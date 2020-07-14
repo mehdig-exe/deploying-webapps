@@ -1,1 +1,3 @@
 webapp/
+mysite/db.sqlite3
+mysite/mysite/settings.py
